@@ -1,15 +1,14 @@
 <h3 align="center"><img src="https://i.imgur.com/ZQI2EYz.png" alt="logo" height="100px"></h3>
-<p align="center">A command-line system information tool written in bash 3.2+</p>
+<p align="center">A command-line system information tool written in bash 5.1+</p>
 
 <p align="center">
-<a href="./LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 <a href="https://github.com/dylanaraps/neofetch/releases"><img src="https://img.shields.io/github/release/dylanaraps/neofetch.svg"></a>
 <a href="https://repology.org/metapackage/neofetch"><img src="https://repology.org/badge/tiny-repos/neofetch.svg" alt="Packaging status"></a>
 </p>
 
 <img src="https://i.imgur.com/GFmC5Ad.png" alt="neofetch" align="right" height="240px">
 
-Neofetch is a command-line system information tool written in `bash 3.2+`. Neofetch displays information about your operating system, software and hardware in an aesthetic and visually pleasing way.
+Neofetch is a command-line system information tool written in `bash 5.1+`. Neofetch displays information about your operating system, software and hardware in an aesthetic and visually pleasing way.
 
 The overall purpose of Neofetch is to be used in screen-shots of your system. Neofetch shows the information other people want to see. There are other tools available for proper system statistic/diagnostics.
 
